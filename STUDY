@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudyMulti Service</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: url('canada_flag_background.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            background: rgba(255, 255, 255, 0.9);
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .header {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        .section {
+            text-align: left;
+            margin: 20px 0;
+        }
+        .contact {
+            font-size: 18px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">StudyMulti Service - معلومات حول التأشيرات وخدمات CAQ</div>
+        
+        <div class="section">
+            <h2>تأشيرات كندا</h2>
+            <p>أنواع التأشيرات تشمل تأشيرة الزيارة، تصريح الدراسة، تصريح العمل، وبرامج الهجرة.</p>
+        </div>
+        
+        <div class="section">
+            <h2>تأشيرات إيطاليا</h2>
+            <p>أنواع التأشيرات تشمل تأشيرة شنغن قصيرة الأمد وتأشيرة الإقامة الطويلة للدراسة أو العمل.</p>
+        </div>
+        
+        <div class="section">
+            <h2>تأشيرات الولايات المتحدة</h2>
+            <p>تأشيرات السياحة، الدراسة، العمل المؤقت، وتأشيرات الإقامة الدائمة.</p>
+        </div>
+        
+        <div class="section">
+            <h2>خدمات CAQ</h2>
+            <p>معلومات حول شهادة القبول في كيبيك (CAQ) للطلاب الجزائريين.</p>
+        </div>
+        
+        <div class="section">
+            <h2>فيديوهات مفيدة</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/example1" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/example2" frameborder="0" allowfullscreen></iframe>
+        </div>
+        
+        <div class="contact">
+            <p>للتواصل: 0551315429 | Email: contact@studymulti.com</p>
+        </div>
+    </div>
+</body>
+</html>
